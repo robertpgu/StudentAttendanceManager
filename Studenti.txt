@@ -1,0 +1,5 @@
+Student [nume=Podgorencu, prenume=Robert, prezenta=2]
+Student [nume=Podgorencu, prenume=Robert, prezenta=2]
+Student [nume=Podgorencu, prenume=Robert, prezenta=2]
+Student [nume=Podgorencu, prenume=Robert, prezenta=2]
+Student [nume=Podgorencu, prenume=Robert, prezenta=2]
